@@ -4,9 +4,4 @@
  * having to figure out which file they belong to!
  */
 export {default as Main} from './main'
-export {default as UserHome} from './user-home'
-export {default as Profile} from './Profile'
-export {default as MyChats} from './MyChats'
-export {default as SingleChat} from './SingleChat'
-export {default as AddFriends} from './AddFriends'
-export {default as Navbar} from './Navbar'
+
